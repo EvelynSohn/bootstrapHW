@@ -1,6 +1,5 @@
 .jumbotron {
     background-image: url(../images/plantdesk.jpg);
-
     height: 300px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,5 +19,6 @@
 }
 
 .bodytext {
-    margin: 120px;
+    margin-left: 220px;
+    margin-right: 220px;
 }
